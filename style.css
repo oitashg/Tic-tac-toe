@@ -9,7 +9,7 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    background-color: rgb(13, 29, 203);
     background-size: cover;
     background-position: center;
     display: grid;
