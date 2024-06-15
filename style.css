@@ -9,7 +9,7 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(13, 29, 203);
+    background-image: url(./assets/gradient-bg.jpg);
     background-size: cover;
     background-position: center;
     display: grid;
@@ -85,5 +85,5 @@
 }
 
 .win{
-    background-color: green;
+    background-color: rgba(17, 240, 17, 0.872);
 }
